@@ -1,0 +1,35 @@
+.card{
+    width: 290px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 245.63px;
+    width: 245.63px;
+    display:block;
+    margin-bottom: 10px;
+}
+
+.card-title{
+    font-size: 16px;
+    font-family: Roboto, sans-serif;
+}
+#price{
+    font-weight: bold;
+    margin: auto;
+}
+
+.card-body{
+    padding: 0 15px;
+}
+
+.card-footer{
+    background-color: white;
+}
+
+.btn.btn-secondary.btn-sm{
+    margin-top: auto;
+}
+
+
